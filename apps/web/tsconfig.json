@@ -11,6 +11,8 @@
     "next-env.d.ts",
     "next.config.js",
     "**/*.ts",
+    "**/*.cjs",
+    "**/*.mjs",
     "**/*.tsx",
     ".next/types/**/*.ts"
   ],
